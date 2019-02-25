@@ -1,2 +1,1 @@
-# Discord
-Discord
+Hoi iedereen
